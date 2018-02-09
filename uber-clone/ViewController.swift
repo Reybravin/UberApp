@@ -10,16 +10,21 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var emailTextfield: UITextField!
+    @IBOutlet weak var passwordTextfield: UITextField!
+    @IBOutlet weak var riderDriverSwitch: UISwitch!
+    
+    @IBOutlet weak var topBtn: UIButton!
+    @IBOutlet weak var botomBtn: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    @IBAction func topBtnTapped(_ sender: Any) {
     }
-
-
+    @IBAction func bottomBtnPressed(_ sender: Any) {
+    }
 }
 

@@ -9,5 +9,6 @@ target 'uber-clone' do
 
   # Pods for uber-clone
   pod 'Firebase/Core'
+  pod 'Firebase/Auth'
 
 end
