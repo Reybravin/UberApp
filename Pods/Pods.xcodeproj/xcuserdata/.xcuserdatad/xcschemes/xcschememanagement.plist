@@ -14,12 +14,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-uber-clone.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>nanopb.xcscheme</key>
+		<key>Pods-Uber.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
